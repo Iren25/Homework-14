@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.btn{
+    position: absolute;
+    top: 40%;
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 17pt;
+    margin: 20px, 20px;
+    background-color: rgb(138, 171, 159);
+    border: none;
+}
